@@ -1,6 +1,6 @@
 # _17. Letter Combinations of a Phone Number_
 
-#### _A solution for a problem from LeetCode.com, Created XX/XX/2019_
+#### _A solution for a problem from LeetCode.com, Created 03/01/2019_
 
 #### By _**Yulia Shidlovskaya**_
 
